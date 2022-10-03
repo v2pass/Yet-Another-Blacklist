@@ -6,6 +6,15 @@ A blacklist in regex form that help prevent users from accessing to some website
 
 For XrayR:
 
+1. Edit config file:
+
+```yml
+ApiConfig:
+    RuleListPath: /etc/XrayR/blacklist #Path to local rulelist file
+```
+
+2. Download blacklist:
+
 ```
 wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blacklist -O /etc/XrayR/blacklist
 ```
