@@ -2,7 +2,7 @@
 
 A blacklist in regex form that help prevent users from accessing to some websites that proxy providers think harmful. By applying this rule both of two sides are able to surf the Internet more safely.
 
-# Why not just using outbound blackhole with geosite?
+# Why not using outbound blackhole with the help of geosite?
 
 Becuase shadowsocks and trojan do not support this feature.
 
