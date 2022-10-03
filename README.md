@@ -1,6 +1,6 @@
 # Intro
 
-Yet-Another-Blacklist is a blacklist in regex form that help prevent users from accessing globally to some Chinese social websites and some oversea political sites focusing on propaganda. By applying this rule both of users and proxy providers are able to surf the Internet more safely although their freedom of the press may be detained.
+Yet-Another-Blacklist is a blacklist in regex form that help prevent users from accessing globally to some Chinese social websites <sup>[note 1](https://github.com/XTLS/Xray-core/discussions/593#discussioncomment-845165)</sup> and some oversea political sites focusing on propaganda. By applying this rule both of users and proxy providers are able to surf the Internet more safely although their freedom of the press may be detained.
 
 # Why not using outbound blackhole with the help of geosite?
 
