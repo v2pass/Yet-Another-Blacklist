@@ -15,7 +15,7 @@
 (baidu.*|hao123i*m*g*|91|aipage|apollo|baifae|baifubao|bcebos|bdimg|bdcloudapi|haokan|bdstatic|bdtjrcv|bdydns|chuanke|dlnel|duapps|dwz|hao222|jomocdn|jomodns|mipcdn|nuomi|quyaoya|shifen|smartapps|tieba.*|xianfae|xiaodutv)\.(cn|com|auto|net|org)
 (?# Bytedance)
 (toutiao.*|douyin.*|huoshan.*|ixigua.*|ixgvideo|.*dxigua.*|baike|feishu.*|dcar.*|dongchedi.*|dcdapp|muyewx|changdunovel|365yg|pipix)\.(cn|com|auto|net|org)
-(?# Proxy)
+(?# Competitors)
 (tly|jike0001|ia302pd|dzeron|prprcheng|dundishu|xiyouvpn|honven|stcserver-cloud|cr1234567|.*dwladold|goj123|xiyovpn|tangshifu|bao-zi|nordvpn|duckyapp|ldypage.suzhouds|.*suzhouds|.*senenwood|free.gerg1|bxflight|muniucloud|sdocapp|xuanjichang|dash.dashsp|msl|jichangfq|limbopro|jichangtj|fanqiangdang|xianchengzhi|biteb|xn--4gq62f52gdss|xn--mesr8b36x|xn--mes55iczl|xmrth|2world|surfshark|expressvpn|zh.wizcase|v2ft|dash.666ya|ssfly|top10vpn|jjkj5|bigdongdong.gitbook|xbww6889|promzones)\.(com|my|net|org|xyz|cc|one|la|top|me|io|llc|buzz|click)
 (?# Dangrous Sites)
 (program-think.blogspot|xizang-zhiye|nccur.lib.nccu|hrw|.*amerik.*|bbg|.*voa|voa.*|persagg|dw|dajiyuan|deutschewelle.h-cdn|.*epoch.*|edninfo|ntdtv.*|erabaru|etviet|lagranepoca|ntd|ntdca|ntdimg|ntdvn|wenzhao|npr|rfa|rfi|dwnews|famousdnm|bannedbook|ming-jian|kannewyork|bannednews|spiegel|minghui|falundafa|freetibet|guonews|chenpokong|mingdemedia|botanwang|aboluowang|eddiba|minzhuzhongguo|secretchina|appledaily|chinese-future|g-tvapp|gclubs|gettr|gfashion|gnews|citizenpowerforchina|cnd|aamacau|gsearch|gtv.*|guo|gwiki|gwins|himalaya|himalaya-exchange.zendesk|news3.rexcha|nfscdict|rolfoundation|rolsociety|pincong|dalailama|tibet|dpp)\.(com.*|my|net|org.*|edu.tw|gov|ru|eu|cloud|co.*|cz|de|fr|it|jp|kr|nl|pl|se|ca|media|exchange|rocks)
