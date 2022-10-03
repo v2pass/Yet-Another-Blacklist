@@ -6,3 +6,5 @@ A blacklist that help prevent users from accessing to some websites that proxy p
 ```
 wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blacklist -O /etc/XrayR/blacklist
 ```
+
+, where /etc/XrayR/blacklist is the rule path.
