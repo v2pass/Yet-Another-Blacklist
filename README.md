@@ -4,7 +4,7 @@ Yet-Another-Blacklist is a blacklist in regex form that help prevent users from 
 
 # Why not using outbound blackhole with the help of geosite?
 
-Becuase shadowsocks and trojan do not support this feature.
+Becuase Shadowsocks and Trojan do not support this feature.
 
 # Usage
 
