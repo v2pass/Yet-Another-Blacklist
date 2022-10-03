@@ -4,5 +4,5 @@ A blacklist that help prevent users from accessing to some websites so that user
 
 # Usage
 ```
-wget https://raw.githubusercontent.com/v2werf5ef/blacklist/main/blacklist -O /etc/XrayR/blacklist
+wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blacklist -O /etc/XrayR/blacklist
 ```
