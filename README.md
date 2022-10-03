@@ -1,6 +1,6 @@
 # Intro
 
-A blacklist in regex form that help prevent users from accessing to some websites that proxy providers think harmful. By applying this rule both of two sides are able to surf the Internet more safely.
+Yet-Another-Blacklist is a blacklist in regex form that help prevent users from accessing globally to some Chinese social websites and some oversea political sites focusing on propaganda. By applying this rule both of users and proxy providers are able to surf the Internet more safely although their freedom of the press may be detained.
 
 # Why not using outbound blackhole with the help of geosite?
 
