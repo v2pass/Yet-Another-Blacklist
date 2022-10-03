@@ -7,6 +7,8 @@
 (.*360.*|haos.*|anquanke|ludashi|qhimg.*|yunpan|nicaifu|nzwgs|qihoo|qhmsg|qhres2*|qhstatic|youhua|qihu.*|qikucdn|urlqh|xiaoluyouxuan|xiaoluzhidian|xjietiao|youhua)\.(cn|com|net)
 (?# weibo)
 (weibo.*|wcdn|videoself|sina.*|wbimg|97973|picself|xhaiwai)\.(cn|com.*|net)
+(?# Tencent)
+(fyeds[0-9]*|fymall[0-9]*|fymallqa[0-9]*|tencent|tencentmusic|tenpay|wechat|servicewechat|weiyun|alloyteam|i[mv]web|apcdns|gtimg|idqqimg|imqq|myapp|qlogo|qpic|qq|qzone|rtx|qqmail|foxmail)\.(com.*|net.*|io|cn|wang)
 (?# bilibili)
 (acg.*|b23|bili.*|hdslb|im9|mincdn)\.(cn|com.*|tv|net)
 (?# baidu)
