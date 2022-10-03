@@ -28,4 +28,4 @@ wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blac
 # ToDo
 
 Automatically merge from some famous repo like [domain-list-community
-](https://github.com/v2fly/domain-list-community)
+](https://github.com/v2fly/domain-list-community).
