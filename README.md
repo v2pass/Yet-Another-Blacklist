@@ -20,7 +20,7 @@ ApiConfig:
 2. Download blacklist:
 
 ```
-wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blacklist -O /etc/XrayR/blacklist
+wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blacklist -O /root/blacklist && sed '/?/d' /root/blacklist > /etc/XrayR/blacklist
 ```
 
 , where */etc/XrayR/blacklist* is the default rule path and you can change it for your own purpose.
