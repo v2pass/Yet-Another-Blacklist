@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/v2werf5ef/Yet-Another-Blacklist/main/blac
 
 , where */etc/XrayR/blacklist* is the default rule path and you can change it for your own purpose.
 
-# ToDo
+# To do
 
 Automatically grab rules from some famous repos like [domain-list-community
 ](https://github.com/v2fly/domain-list-community) and make regex list.
