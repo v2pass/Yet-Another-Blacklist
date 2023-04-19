@@ -2,6 +2,8 @@
 (program-think.blogspot|xizang-zhiye|nccur.lib.nccu|hrw|.*amerik.*|bbg|.*voa|voa.*|persagg|dw|dajiyuan|deutschewelle.h-cdn|.*epoch.*|edninfo|ntdtv.*|erabaru|etviet|lagranepoca|ntd|ntdca|ntdimg|ntdvn|wenzhao|npr|rfa|rfi|dwnews|famousdnm|bannedbook|ming-jian|kannewyork|bannednews|spiegel|minghui|falundafa|freetibet|guonews|chenpokong|mingdemedia|botanwang|aboluowang|eddiba|minzhuzhongguo|secretchina|appledaily|chinese-future|g-tvapp|gclubs|gettr|gfashion|gnews|citizenpowerforchina|cnd|aamacau|gsearch|gtv.*|guo|gwiki|gwins|himalaya|himalaya-exchange.zendesk|news3.rexcha|nfscdict|rolfoundation|rolsociety|pincong|dalailama|tibet|dpp)\.(com.*|my|net|org.*|edu.tw|ru|eu|cloud|co.*|cz|de|fr|it|jp|kr|nl|pl|se|ca|media|exchange|rocks)
 (?# Gov)
 (.*.||)(cyberpolice|12377|110|12337|12389|jubao|8221110|cctv|81|12388|isc|12339|js12377)\.(org|com|net|cn)
+(?# bt)
+(torrent|.torrent|peer_id=|info_hash|get_peers|find_node|BitTorrent|announce_peer|announce.php?passkey=)
 (?# ip)
 (whatismyip.*|ipaddress.*|ip.900cha|ip138|ipshu|iplocation|ipcost|ipip|tunnelbear|.*myip|tool|ez2o|whoer|sojson|ip.skk|kinsta|smallseotools|cn.geoipview|j4|tp-link|findip|jannet)\.(com.*|my|net|org|lu|moe|kr|hk)
 (?# 360)
