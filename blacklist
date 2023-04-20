@@ -1,3 +1,5 @@
+(?# BT sites)
+(tracker[0-9]*\.|bttrack[0-9]*\.|btracker[0-9]*\.)
 (?# Dangerous sites)
 (program-think.blogspot|xizang-zhiye|nccur.lib.nccu|hrw|.*amerik.*|bbg|.*voa|voa.*|persagg|dw|dajiyuan|deutschewelle.h-cdn|.*epoch.*|edninfo|ntdtv.*|erabaru|etviet|lagranepoca|ntd|ntdca|ntdimg|ntdvn|wenzhao|npr|rfa|rfi|dwnews|famousdnm|bannedbook|ming-jian|kannewyork|bannednews|spiegel|minghui|falundafa|freetibet|guonews|chenpokong|mingdemedia|botanwang|aboluowang|eddiba|minzhuzhongguo|secretchina|appledaily|chinese-future|g-tvapp|gclubs|gettr|gfashion|gnews|citizenpowerforchina|cnd|aamacau|gsearch|gtv.*|guo|gwiki|gwins|himalaya|himalaya-exchange.zendesk|news3.rexcha|nfscdict|rolfoundation|rolsociety|pincong|dalailama|tibet|dpp)\.(com.*|my|net|org.*|edu.tw|ru|eu|cloud|co.*|cz|de|fr|it|jp|kr|nl|pl|se|ca|media|exchange|rocks)
 (?# Gov)
