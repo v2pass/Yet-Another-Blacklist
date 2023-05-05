@@ -2,6 +2,8 @@
 (tracker[0-9]*s*\.|bttrack[0-9]*s*\.|btracker[0-9]*s*\.)
 (?# BT sites 2)
 (abcvg|endpot|okmp3|astrr|hosted-by-vdsina|smrsh|p2p\.0g|v6-tracker\.0g|parag|camoe|t\.acg|torrentsmd|cili001|all4nothin|wareztorrent|hloli|burnabyhighstar|ready4|rarbg|aarsen|acxx|aegir|bedro|bt1\.archive|epider|exodus\.desync|zecircle|bugout|wepzone|trakx\.crim|artixlinux|thouvenin|duckdns|thagoa|13335|sanincode|clients\.your-server|corbina|anonseed|arenabg|opentor|stealth|dstud|demonii|movies\.zsw|moonburrow|mail\.artixlinux|linfan|laze|htz3\.noho)\.(info|com|ru|net|cx|rs|cn|rip|com|org|icu|me|de|sexy|cloud|xyz|link|ist|rocks|si|io|ca|club|moe|cc|st)
+(?# bitcoin)
+(stratum\.braiins)\.(com)
 (?# Dangerous sites)
 (program-think.blogspot|xizang-zhiye|nccur.lib.nccu|hrw|.*amerik.*|bbg|.*voa|voa.*|persagg|dw|dajiyuan|deutschewelle.h-cdn|.*epoch.*|edninfo|ntdtv.*|erabaru|etviet|lagranepoca|ntd|ntdca|ntdimg|ntdvn|wenzhao|npr|rfa|rfi|dwnews|famousdnm|bannedbook|ming-jian|kannewyork|bannednews|spiegel|minghui|falundafa|freetibet|guonews|chenpokong|mingdemedia|botanwang|aboluowang|eddiba|minzhuzhongguo|secretchina|appledaily|chinese-future|g-tvapp|gclubs|gettr|gfashion|gnews|citizenpowerforchina|cnd|aamacau|gsearch|gtv.*|guo|gwiki|gwins|himalaya|himalaya-exchange.zendesk|news3.rexcha|nfscdict|rolfoundation|rolsociety|pincong|dalailama|tibet|dpp)\.(com.*|my|net|org.*|edu.tw|ru|eu|cloud|co.*|cz|de|fr|it|jp|kr|nl|pl|se|ca|media|exchange|rocks)
 (?# Gov)
